@@ -1,0 +1,1 @@
+A PHP class (and, in a near future, a framework) to aid in parsing subtitle files.
